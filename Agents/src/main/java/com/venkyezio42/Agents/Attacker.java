@@ -16,6 +16,7 @@ public class Attacker implements iSide{
         int commit6 = 0;
         int commit7 = 0;
         int commit8 = 0;
+        int commit9 = 0;
         return "Oh no. :(";
 
     }
