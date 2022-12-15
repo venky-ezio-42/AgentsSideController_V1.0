@@ -7,6 +7,6 @@ public class Attacker implements iSide{
 
     @Override
     public String mission() {
-        return "On Attacking side.";
+        return "On no side.";
     }
 }
