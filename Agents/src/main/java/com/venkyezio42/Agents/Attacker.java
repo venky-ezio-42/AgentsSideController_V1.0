@@ -7,6 +7,9 @@ public class Attacker implements iSide{
 
     @Override
     public String mission() {
+        int commit1 = 0;
+        int commit2 = 0;
         return "Oh no. :(";
+
     }
 }
