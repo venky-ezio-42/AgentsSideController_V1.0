@@ -7,8 +7,6 @@ public class Attacker implements iSide{
 
     @Override
     public String mission() {
-
-        return "Oh no. :(";
-
+        return "On no.";
     }
 }
