@@ -9,6 +9,9 @@ public class Attacker implements iSide{
     public String mission() {
         int commit1 = 0;
         int commit2 = 0;
+        int commit3 = 0;
+        int commit4 = 0;
+        int commit5 = 0;
         return "Oh no. :(";
 
     }
